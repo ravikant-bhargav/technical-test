@@ -1,0 +1,12 @@
+.layout__container {
+    width: 90%;
+    padding: 8px;
+    margin: auto;
+    min-height: 100vh;
+    display: flex;
+    
+    justify-content: center;
+    background-color:aliceblue;
+    height: 120;
+  }
+  
